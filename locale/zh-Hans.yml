@@ -1,0 +1,18 @@
+wszdb-shareurl:
+  admin:
+    settings:
+      title: ShareURL 设置
+      warning_text_label: 警告文本
+      warning_text_help: 点击外部链接时显示的警告信息
+      whitelist_label: 白名单关键词
+      whitelist_help: 用英文逗号分隔的关键词，匹配的外部链接不会触发警告
+      enable_copy_link_label: 启用复制链接按钮
+      enable_copy_link_help: 在每个帖子的首帖显示复制链接按钮
+  forum:
+    copy_link_button: 复制分享
+    warning_message: "外链风险提示：此链接将在新窗口打开。"
+    confirm_button: 确认
+    cancel_button: 取消
+    copy_success: 链接已复制到剪贴板！
+    copy_failed: 复制链接失败
+    link_warning_title: 安全提醒

@@ -1,0 +1,32 @@
+{
+  "name": "wszdb/flarum-shareurl",
+  "description": "A Flarum plugin that adds external link warning and one-click copy link functionality",
+  "type": "flarum-extension",
+  "keywords": [
+    "flarum",
+    "extension",
+    "link",
+    "warning",
+    "copy"
+  ],
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wszdb\\ShareUrl\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Share URL",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-link",
+        "backgroundColor": "#667eea",
+        "color": "#fff"
+      }
+    }
+  }
+}

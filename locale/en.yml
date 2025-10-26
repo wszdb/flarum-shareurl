@@ -1,0 +1,18 @@
+wszdb-shareurl:
+  admin:
+    settings:
+      title: ShareURL Settings
+      warning_text_label: Warning Text
+      warning_text_help: The warning message displayed when clicking external links
+      whitelist_label: Whitelist Keywords
+      whitelist_help: Comma-separated keywords for external links that should not trigger the warning
+      enable_copy_link_label: Enable Copy Link Button
+      enable_copy_link_help: Show a copy link button on the first post of each discussion
+  forum:
+    copy_link_button: Copy and Share
+    warning_message: "External link warning: This link will open in a new window."
+    confirm_button: Confirm
+    cancel_button: Cancel
+    copy_success: Link copied to clipboard!
+    copy_failed: Failed to copy link
+    link_warning_title: Security Reminder
