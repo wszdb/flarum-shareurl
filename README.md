@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 # Flarum ShareURL Plugin
 
 A Flarum plugin that adds external link warning and one-click copy link functionality to enhance forum security and user experience.
@@ -70,4 +72,5 @@ Developed by [wszdb](https://github.com/wszdb)
 ---
 
 This plugin was automatically developed using [AiPy](https://www.aipyaipy.com/).  
+
 Code: XOFS
